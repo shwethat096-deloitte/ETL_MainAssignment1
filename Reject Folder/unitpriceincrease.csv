@@ -1,0 +1,4 @@
+Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_Price,Unit_Cost,Name
+Asia,Sri Lanka,Fruits,Online,H,13/03/2017,484823930,20/04/17,9030,13.995,6.92,Nobita
+Asia,Vietnam,Fruits,Online,C,06/07/2016,455516612,19/07/16,6343,13.995,6.92,Sherlock
+Asia,Thailand,Fruits,Online,M,29/06/2017,980155408,04/07/17,8621,13.995,6.92,James

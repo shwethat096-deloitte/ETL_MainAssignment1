@@ -1,0 +1,19 @@
+Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_Price,Unit_Cost,Name
+Middle East and North Africa,Morocco,Clothes,Online,M,14/09/2013,667593514,19/10/13,4611,109.28,35.84,Haze
+Sub-Saharan Africa,Seychelles ,Beverages,Online,M,18/01/2013,425793445,16/02/13,597,47.45,31.79,John
+Sub-Saharan Africa,Tanzania,Beverages,Online,L,30/11/2016,659878194,16/01/17,1476,47.45,31.79,Zaved
+Asia,Singapore,Snacks,Online,C,28/01/2013,176461303,07/02/13,7676,152.58,97.44,Johny
+Europe,France,Cosmetics,Online,M,07/12/2015,324669444,18/01/16,5758,437.2,263.33,Hary
+Central America and the Caribbean,Nicaragua,Household,Online,C,28/10/2015,573998582,07/12/15,7791,668.27,502.54,Devis
+Europe,United Kingdom,Cosmetics,Online,L,01/05/2015,135178029,16/05/15,1038,437.2,263.33,Keech
+Asia,India,Snacks,Online,L,10/10/2012,440306556,20/11/12,5349,152.58,97.44,Feriha
+Sub-Saharan Africa,Togo,Cosmetics,Online,M,08/09/2015,563681733,09/09/15,4806,437.2,263.33,Emily
+Europe,Italy,Cereal,Online,C,30/11/2015,887409770,05/12/15,3126,205.7,117.11,Otis
+Central America and the Caribbean,Saint Kitts and Nevis ,Snacks,Online,C,27/06/2017,452521550,29/07/17,38,152.58,97.44,Judy
+Europe,Ukraine,Cosmetics,Online,M,08/02/2014,942602765,27/02/14,5960,437.2,263.33,HanTaeSu
+Europe,Monaco,Personal Care,Online,M,16/03/2015,934613645,22/03/15,1801,81.73,56.67,Watson
+Europe,Ukraine,Fruits,Online,L,23/11/2016,110557496,24/12/16,5275,9.33,6.92,Sonio
+Asia,South Korea,Fruits,Online,C,01/01/2014,931736171,05/01/14,293,9.33,6.92,Brad
+Asia,Sri Lanka,Fruits,Online,H,13/03/2017,484823930,20/04/17,9030,13.995,6.92,Nobita
+Asia,Vietnam,Fruits,Online,C,06/07/2016,455516612,19/07/16,6343,13.995,6.92,Sherlock
+Asia,Thailand,Fruits,Online,M,29/06/2017,980155408,04/07/17,8621,13.995,6.92,James
